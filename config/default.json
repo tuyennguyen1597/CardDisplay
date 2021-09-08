@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://stomblecard:stomblecard@card.6vcui.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
